@@ -89,12 +89,14 @@ Otherwise, you may get nasty surprises later in the development process.
 These stakeholders determine the extent and the level of detail of your work and its results.
 
 .Form
-Table with role names, person names, and their expectations with respect to the architecture and its documentation.
+Table with role names, person names, and their expectations with respect to the architecture documentation (!).
+Do not repeat stakeholders' functional and quality requirements.
+Identify their documentation needs here.
 
 .Example
-The following stakeholder roles recur across most software projects. Use it as a
-starting point, then adapt the roles, names and expectations to your actual project
--- not every project has all of these roles, and some will have additional ones.
+The following stakeholder roles recur across many projects. Use it as a
+starting point, then adapt the roles, names and expectations to your actual project.
+Not every project has all of these roles, and some will have additional ones.
 
 [options="header",cols="1,2,2"]
 |===
